@@ -2,7 +2,8 @@
 
 The above attached is the code for Image classification of cancer pigmented skin using CNN.
 The model has trained using keras tensorflow and deployed via streamlit.
-The [Kaggle dataset](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) has been used for training the model
+The [Kaggle dataset](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000) has been used for training the model.
+Attached is an implentation video.
 
 
 
